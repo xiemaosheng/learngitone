@@ -1,2 +1,2 @@
 Git is free software distributed under the GPL.
-xxxxx
+Creating a new branch is quick & simple.
